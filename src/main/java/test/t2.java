@@ -7,7 +7,7 @@ public class t2 {
 	public static void main(String[] args) {
 //		String s = "123";
 //		String[] ss = s.split(",");
-//		tt(ss)f;
+//		ttdsd(ss);
 		 
 		Boolean b = null;
 		String ss = "1";
